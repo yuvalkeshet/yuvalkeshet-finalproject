@@ -1,0 +1,751 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E01026FA-30C0-4D64-BE9D-17C0CF362075}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dashboard_niar_hadera</RootNamespace>
+    <AssemblyName>Dashboard_niar_hadera</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <MvcBuildViews>false</MvcBuildViews>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Abstractions" />
+    <Reference Include="System.Web.Routing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http">
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.WebRequest">
+    </Reference>
+    <Reference Include="System.Web.Helpers, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.Helpers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Mvc.5.2.3\lib\net45\System.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Razor.3.2.3\lib\net45\System.Web.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Deployment, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Deployment.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.WebPages.Razor, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.1\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Owin">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.2.2.1\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Owin">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin">
+      <HintPath>..\packages\Microsoft.Owin.3.0.1\lib\net45\Microsoft.Owin.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.1\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security">
+      <HintPath>..\packages\Microsoft.Owin.Security.3.0.1\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Facebook">
+      <HintPath>..\packages\Microsoft.Owin.Security.Facebook.3.0.1\lib\net45\Microsoft.Owin.Security.Facebook.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.OAuth">
+      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.3.0.1\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Google">
+      <HintPath>..\packages\Microsoft.Owin.Security.Google.3.0.1\lib\net45\Microsoft.Owin.Security.Google.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Twitter">
+      <HintPath>..\packages\Microsoft.Owin.Security.Twitter.3.0.1\lib\net45\Microsoft.Owin.Security.Twitter.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.MicrosoftAccount">
+      <HintPath>..\packages\Microsoft.Owin.Security.MicrosoftAccount.3.0.1\lib\net45\Microsoft.Owin.Security.MicrosoftAccount.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.Owin">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Owin.5.2.3\lib\net45\System.Web.Http.Owin.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
+    <Compile Include="App_Start\IdentityConfig.cs" />
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Areas\HelpPage\ApiDescriptionExtensions.cs" />
+    <Compile Include="Areas\HelpPage\App_Start\HelpPageConfig.cs" />
+    <Compile Include="Areas\HelpPage\Controllers\HelpController.cs" />
+    <Compile Include="Areas\HelpPage\HelpPageAreaRegistration.cs" />
+    <Compile Include="Areas\HelpPage\HelpPageConfigurationExtensions.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\CollectionModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ComplexTypeModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\DictionaryModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\EnumTypeModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\EnumValueDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\IModelDocumentationProvider.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\KeyValuePairModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelDescriptionGenerator.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelNameAttribute.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ModelNameHelper.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ParameterAnnotation.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\ParameterDescription.cs" />
+    <Compile Include="Areas\HelpPage\ModelDescriptions\SimpleTypeModelDescription.cs" />
+    <Compile Include="Areas\HelpPage\Models\HelpPageApiModel.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\HelpPageSampleGenerator.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\HelpPageSampleKey.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\ImageSample.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\InvalidSample.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\ObjectGenerator.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
+    <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
+    <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
+    <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\DepartmentController.cs" />
+    <Compile Include="Controllers\EmployeeController.cs" />
+    <Compile Include="Controllers\FileController.cs" />
+    <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\KPIController.cs" />
+    <Compile Include="Controllers\MalufunctionController.cs" />
+    <Compile Include="Controllers\ManagerController.cs" />
+    <Compile Include="Controllers\MessageController.cs" />
+    <Compile Include="Controllers\NoteController.cs" />
+    <Compile Include="Controllers\ShiftController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Models\AccountBindingModels.cs" />
+    <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\BackgroundTasks.cs" />
+    <Compile Include="Models\DAL\DBService.cs" />
+    <Compile Include="Models\Department.cs" />
+    <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\KPI.cs" />
+    <Compile Include="Models\Malfunction.cs" />
+    <Compile Include="Models\Manager.cs" />
+    <Compile Include="Models\Message.cs" />
+    <Compile Include="Models\Note.cs" />
+    <Compile Include="Models\Position.cs" />
+    <Compile Include="Models\Shift.cs" />
+    <Compile Include="Models\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Providers\ApplicationOAuthProvider.cs" />
+    <Compile Include="Results\ChallengeResult.cs" />
+    <Compile Include="Startup.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="assets\js\lib\calendar\fullcalendar-init4.js" />
+    <Content Include="assets\js\lib\calendar\fullcalendar-init3.js" />
+    <Content Include="assets\js\lib\calendar\fullcalendar-init2.js" />
+    <Content Include="assets\js\lib\progressbar\progressbar.js" />
+    <Content Include="DeletedMessages.html" />
+    <Content Include="EndOfShift.html" />
+    <Content Include="SentMessages.html" />
+    <Content Include="Messages.html" />
+    <Content Include="app-profile.html" />
+    <Content Include="Areas\HelpPage\HelpPage.css" />
+    <Content Include="assets\css\admin\assets\fonts\themify.svg" />
+    <Content Include="assets\css\lib\barRating\barRating.css" />
+    <Content Include="assets\css\lib\bootstrap.min.css" />
+    <Content Include="assets\css\lib\calendar2\pignose.calendar.min.css" />
+    <Content Include="assets\css\lib\calendar2\semantic.ui.min.css" />
+    <Content Include="assets\css\lib\calendar\fullcalendar.css" />
+    <Content Include="assets\css\lib\chartist\chartist.min.css" />
+    <Content Include="assets\css\lib\data-table\buttons.bootstrap.min.css" />
+    <Content Include="assets\css\lib\data-table\buttons.dataTables.min.css" />
+    <Content Include="assets\css\lib\data-table\dataTables.bootstrap.min.css" />
+    <Content Include="assets\css\lib\datepicker\bootstrap-datepicker3.min.css" />
+    <Content Include="assets\css\lib\font-awesome.min.css" />
+    <Content Include="assets\css\lib\helper.css" />
+    <Content Include="assets\css\lib\jquery-ui.min.css" />
+    <Content Include="assets\css\lib\jsgrid\jsgrid-theme.min.css" />
+    <Content Include="assets\css\lib\jsgrid\jsgrid.min.css" />
+    <Content Include="assets\css\lib\line-progress\jquery.lineProgressbar.css" />
+    <Content Include="assets\css\lib\lobi-panel\lobipanel.min.css" />
+    <Content Include="assets\css\lib\materialize.min.css" />
+    <Content Include="assets\css\lib\menubar\sidebar.css" />
+    <Content Include="assets\css\lib\metismenu\menu.css" />
+    <Content Include="assets\css\lib\mmc-chat.css" />
+    <Content Include="assets\css\lib\nestable\nestable.css" />
+    <Content Include="assets\css\lib\owl.carousel.min.css" />
+    <Content Include="assets\css\lib\owl.theme.default.min.css" />
+    <Content Include="assets\css\lib\preloader\pace.css" />
+    <Content Include="assets\css\lib\rangSlider\ion.rangeSlider.css" />
+    <Content Include="assets\css\lib\rangSlider\ion.rangeSlider.skinFlat.css" />
+    <Content Include="assets\css\lib\rangSlider\ion.rangeSlider.skinHTML5.css" />
+    <Content Include="assets\css\lib\rangSlider\ion.rangeSlider.skinModern.css" />
+    <Content Include="assets\css\lib\rangSlider\ion.rangeSlider.skinNice.css" />
+    <Content Include="assets\css\lib\rangSlider\ion.rangeSlider.skinSimple.css" />
+    <Content Include="assets\css\lib\rangSlider\normalize.css" />
+    <Content Include="assets\css\lib\scrollable\scrollable.min.css" />
+    <Content Include="assets\css\lib\select2\select2.min.css" />
+    <Content Include="assets\css\lib\sweetalert\sweetalert.css" />
+    <Content Include="assets\css\lib\themify-icons.css" />
+    <Content Include="assets\css\lib\toastr\toastr.min.css" />
+    <Content Include="assets\css\lib\vector-map\jqvmap.min.css" />
+    <Content Include="assets\css\lib\weather-icons.css" />
+    <Content Include="assets\css\style.css" />
+    <Content Include="assets\fonts\fontawesome-webfont.svg" />
+    <Content Include="assets\fonts\fontawesome-webfont_files\viewsource.css" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="assets\fonts\MontserratLight.svg" />
+    <Content Include="assets\fonts\themify.svg" />
+    <Content Include="assets\fonts\weathericons-regular-webfont.svg" />
+    <Content Include="assets\images\1.png" />
+    <Content Include="assets\images\2.png" />
+    <Content Include="assets\images\3.jpg" />
+    <Content Include="assets\images\3.png" />
+    <Content Include="assets\images\4.jpg" />
+    <Content Include="assets\images\8.png" />
+    <Content Include="assets\images\avatar.png" />
+    <Content Include="assets\images\avatar\1.jpg" />
+    <Content Include="assets\images\avatar\2.jpg" />
+    <Content Include="assets\images\avatar\3.jpg" />
+    <Content Include="assets\images\avatar\usa-flag.png" />
+    <Content Include="assets\images\bookingSystem\1.png" />
+    <Content Include="assets\images\bookingSystem\2.png" />
+    <Content Include="assets\images\bookingSystem\3.png" />
+    <Content Include="assets\images\bookingSystem\4.png" />
+    <Content Include="assets\images\bookingSystem\5.png" />
+    <Content Include="assets\images\bookingSystem\6.png" />
+    <Content Include="assets\images\bookingSystem\7.png" />
+    <Content Include="assets\images\bookingSystem\8.png" />
+    <Content Include="assets\images\c1.jpg" />
+    <Content Include="assets\images\c2.jpg" />
+    <Content Include="assets\images\c3.jpg" />
+    <Content Include="assets\images\chat-person-add.png" />
+    <Content Include="assets\images\close.png" />
+    <Content Include="assets\images\fjords.jpg" />
+    <Content Include="assets\images\hand.jpg" />
+    <Content Include="assets\images\lights.jpg" />
+    <Content Include="assets\images\logo.png" />
+    <Content Include="assets\images\maximize.png" />
+    <Content Include="assets\images\minimize.png" />
+    <Content Include="assets\images\nature.jpg" />
+    <Content Include="assets\images\newyork.jpg" />
+    <Content Include="assets\images\paris.jpg" />
+    <Content Include="assets\images\paypal.png" />
+    <Content Include="assets\images\picture.png" />
+    <Content Include="assets\images\preview1.png" />
+    <Content Include="assets\images\product-2.jpg" />
+    <Content Include="assets\images\product.jpg" />
+    <Content Include="assets\images\product_1\1.jpg" />
+    <Content Include="assets\images\product_1\2.jpg" />
+    <Content Include="assets\images\product_1\3.jpg" />
+    <Content Include="assets\images\product_1\burger.jpg" />
+    <Content Include="assets\images\product_1\download.jpg" />
+    <Content Include="assets\images\product_1\image-10.jpg" />
+    <Content Include="assets\images\product_1\image-8-226x223.jpg" />
+    <Content Include="assets\images\product_1\image-9.jpg" />
+    <Content Include="assets\images\product_1\images.jpg" />
+    <Content Include="assets\images\product_1\pizza2.jpg" />
+    <Content Include="assets\images\profile-bg.jpg" />
+    <Content Include="assets\images\rangeSliderimg\sprite-skin-flat.png" />
+    <Content Include="assets\images\rangeSliderimg\sprite-skin-modern.png" />
+    <Content Include="assets\images\rangeSliderimg\sprite-skin-nice.png" />
+    <Content Include="assets\images\rangeSliderimg\sprite-skin-simple.png" />
+    <Content Include="assets\images\sanfran.jpg" />
+    <Content Include="assets\images\scrollable\view-1-1200x800.jpg" />
+    <Content Include="assets\images\smile.png" />
+    <Content Include="assets\images\user-1.png" />
+    <Content Include="assets\images\user-bg.jpg" />
+    <Content Include="assets\images\user-female.png" />
+    <Content Include="assets\images\user-profile.jpg" />
+    <Content Include="assets\images\user.jpg" />
+    <Content Include="assets\images\video-cam.png" />
+    <Content Include="assets\images\watch.jpg" />
+    <Content Include="assets\js\dashboard1.js" />
+    <Content Include="assets\js\dashboard2.js" />
+    <Content Include="assets\js\lib\barRating\barRating.init.js" />
+    <Content Include="assets\js\lib\barRating\jquery.barrating.js" />
+    <Content Include="assets\js\lib\bootstrap.min.js" />
+    <Content Include="assets\js\lib\calendar-2\moment.latest.min.js" />
+    <Content Include="assets\js\lib\calendar-2\pignose.calendar.min.js" />
+    <Content Include="assets\js\lib\calendar-2\pignose.init.js" />
+    <Content Include="assets\js\lib\calendar-2\prism.min.js" />
+    <Content Include="assets\js\lib\calendar-2\semantic.ui.min.js" />
+    <Content Include="assets\js\lib\calendar\fullcalendar-init.js" />
+    <Content Include="assets\js\lib\calendar\fullcalendar.min.js" />
+    <Content Include="assets\js\lib\chart-js\Chart.bundle.js" />
+    <Content Include="assets\js\lib\chart-js\chartjs-init.js" />
+    <Content Include="assets\js\lib\chartist\chartist-init.js" />
+    <Content Include="assets\js\lib\chartist\chartist-plugin-tooltip.min.js" />
+    <Content Include="assets\js\lib\chartist\chartist.min.js" />
+    <Content Include="assets\js\lib\chat-widget\chat-widget-init.js" />
+    <Content Include="assets\js\lib\circle-progress\circle-progress-init.js" />
+    <Content Include="assets\js\lib\circle-progress\circle-progress.min.js" />
+    <Content Include="assets\js\lib\data-table\buttons.colVis.min.js" />
+    <Content Include="assets\js\lib\data-table\buttons.flash.min.js" />
+    <Content Include="assets\js\lib\data-table\buttons.html5.min.js" />
+    <Content Include="assets\js\lib\data-table\buttons.print.min.js" />
+    <Content Include="assets\js\lib\data-table\datatables-init.js" />
+    <Content Include="assets\js\lib\data-table\dataTables.buttons.min.js" />
+    <Content Include="assets\js\lib\data-table\datatables.min.js" />
+    <Content Include="assets\js\lib\data-table\jquery-1.12.4.js" />
+    <Content Include="assets\js\lib\data-table\jquery.dataTables.min.js" />
+    <Content Include="assets\js\lib\data-table\jszip.min.js" />
+    <Content Include="assets\js\lib\data-table\pdfmake.min.js" />
+    <Content Include="assets\js\lib\data-table\vfs_fonts.js" />
+    <Content Include="assets\js\lib\datamap\d3.min.js" />
+    <Content Include="assets\js\lib\datamap\datamap-init.js" />
+    <Content Include="assets\js\lib\datamap\datamaps.world.min.js" />
+    <Content Include="assets\js\lib\datamap\topojson.js" />
+    <Content Include="assets\js\lib\datepicker\bootstrap-datepicker.min.js" />
+    <Content Include="assets\js\lib\easing\jquery.easing.min.js" />
+    <Content Include="assets\js\lib\easing\stepup-form-init.js" />
+    <Content Include="assets\js\lib\flot-chart\curvedLines.js" />
+    <Content Include="assets\js\lib\flot-chart\excanvas.min.js" />
+    <Content Include="assets\js\lib\flot-chart\flot-chart-init.js" />
+    <Content Include="assets\js\lib\flot-chart\flot-tooltip\jquery.flot.tooltip.min.js" />
+    <Content Include="assets\js\lib\flot-chart\jquery.flot.categories.js" />
+    <Content Include="assets\js\lib\flot-chart\jquery.flot.crosshair.js" />
+    <Content Include="assets\js\lib\flot-chart\jquery.flot.js" />
+    <Content Include="assets\js\lib\flot-chart\jquery.flot.pie.js" />
+    <Content Include="assets\js\lib\flot-chart\jquery.flot.resize.js" />
+    <Content Include="assets\js\lib\flot-chart\jquery.flot.stack.js" />
+    <Content Include="assets\js\lib\flot-chart\jquery.flot.threshold.js" />
+    <Content Include="assets\js\lib\flot-chart\jquery.flot.time.js" />
+    <Content Include="assets\js\lib\flowtype.js" />
+    <Content Include="assets\js\lib\form-validation\jquery.validate-init.js" />
+    <Content Include="assets\js\lib\form-validation\jquery.validate.min.js" />
+    <Content Include="assets\js\lib\gmap\gmap.init.js" />
+    <Content Include="assets\js\lib\gmap\gmapApi.js" />
+    <Content Include="assets\js\lib\gmap\gmaps.js" />
+    <Content Include="assets\js\lib\granim\granim-init.js" />
+    <Content Include="assets\js\lib\granim\granim.min.js" />
+    <Content Include="assets\js\lib\invoice-edit.js" />
+    <Content Include="assets\js\lib\jquery-ui\jquery-ui.min.js" />
+    <Content Include="assets\js\lib\jquery-ui\jquery.ui.touch-punch.min.js" />
+    <Content Include="assets\js\lib\jquery.min.js" />
+    <Content Include="assets\js\lib\jquery.nanoscroller.min.js" />
+    <Content Include="assets\js\lib\jsgrid\db.js" />
+    <Content Include="assets\js\lib\jsgrid\fields\jsgrid.field.checkbox.js" />
+    <Content Include="assets\js\lib\jsgrid\fields\jsgrid.field.control.js" />
+    <Content Include="assets\js\lib\jsgrid\fields\jsgrid.field.number.js" />
+    <Content Include="assets\js\lib\jsgrid\fields\jsgrid.field.select.js" />
+    <Content Include="assets\js\lib\jsgrid\fields\jsgrid.field.text.js" />
+    <Content Include="assets\js\lib\jsgrid\fields\jsgrid.field.textarea.js" />
+    <Content Include="assets\js\lib\jsgrid\jsgrid-init.js" />
+    <Content Include="assets\js\lib\jsgrid\jsgrid.core.js" />
+    <Content Include="assets\js\lib\jsgrid\jsgrid.field.js" />
+    <Content Include="assets\js\lib\jsgrid\jsgrid.load-indicator.js" />
+    <Content Include="assets\js\lib\jsgrid\jsgrid.load-strategies.js" />
+    <Content Include="assets\js\lib\jsgrid\jsgrid.sort-strategies.js" />
+    <Content Include="assets\js\lib\jsgrid\jsgrid.validation.js" />
+    <Content Include="assets\js\lib\knob\jquery.knob.min.js" />
+    <Content Include="assets\js\lib\knob\knob.init.js" />
+    <Content Include="assets\js\lib\line-progress\jquery.lineProgressbar.js" />
+    <Content Include="assets\js\lib\line-progress\line-progress-init.js" />
+    <Content Include="assets\js\lib\menubar\sidebar.js" />
+    <Content Include="assets\js\lib\metismenu\jquery.slimscroll.js" />
+    <Content Include="assets\js\lib\metismenu\metismenu.init.js" />
+    <Content Include="assets\js\lib\metismenu\metismenu.min.js" />
+    <Content Include="assets\js\lib\mmc-common.js" />
+    <Content Include="assets\js\lib\moment\moment.js" />
+    <Content Include="assets\js\lib\morris-chart\morris-init.js" />
+    <Content Include="assets\js\lib\morris-chart\morris.js" />
+    <Content Include="assets\js\lib\morris-chart\raphael-min.js" />
+    <Content Include="assets\js\lib\nestable\jquery.nestable.js" />
+    <Content Include="assets\js\lib\nestable\nestable.init.js" />
+    <Content Include="assets\js\lib\owl-carousel\owl.carousel-init.js" />
+    <Content Include="assets\js\lib\owl-carousel\owl.carousel.min.js" />
+    <Content Include="assets\js\lib\peitychart\jquery.peity.min.js" />
+    <Content Include="assets\js\lib\peitychart\peitychart.init.js" />
+    <Content Include="assets\js\lib\portlets\portlets-init.js" />
+    <Content Include="assets\js\lib\portlets\portlets.js" />
+    <Content Include="assets\js\lib\preloader\pace.min.js" />
+    <Content Include="assets\js\lib\rangeSlider\ion.rangeSlider.min.js" />
+    <Content Include="assets\js\lib\rangeSlider\moment-with-locales.js" />
+    <Content Include="assets\js\lib\rangeSlider\moment.js" />
+    <Content Include="assets\js\lib\rangeSlider\rangeslider.init.js" />
+    <Content Include="assets\js\lib\rating1\jRate.init.js" />
+    <Content Include="assets\js\lib\rating1\jRate.min.js" />
+    <Content Include="assets\js\lib\scrollable\holder.js" />
+    <Content Include="assets\js\lib\scrollable\jquery-asScrollable.min.js" />
+    <Content Include="assets\js\lib\scrollable\jquery-asScrollbar.js" />
+    <Content Include="assets\js\lib\scrollable\scrollable.init.js" />
+    <Content Include="assets\js\lib\select2\select2.full.min.js" />
+    <Content Include="assets\js\lib\sparklinechart\jquery.sparkline.min.js" />
+    <Content Include="assets\js\lib\sparklinechart\sparkline.init.js" />
+    <Content Include="assets\js\lib\sweetalert\sweetalert.init.js" />
+    <Content Include="assets\js\lib\sweetalert\sweetalert.min.js" />
+    <Content Include="assets\js\lib\toastr\toastr.init.js" />
+    <Content Include="assets\js\lib\toastr\toastr.min.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.algeria.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.argentina.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.brazil.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.europe.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.france.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.germany.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.greece.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.iran.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.iraq.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.russia.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.tunisia.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.turkey.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.usa.js" />
+    <Content Include="assets\js\lib\vector-map\country\jquery.vmap.world.js" />
+    <Content Include="assets\js\lib\vector-map\jquery.vmap.js" />
+    <Content Include="assets\js\lib\vector-map\jquery.vmap.min.js" />
+    <Content Include="assets\js\lib\vector-map\jquery.vmap.sampledata.js" />
+    <Content Include="assets\js\lib\vector-map\vector.init.js" />
+    <Content Include="assets\js\lib\weather\jquery.simpleWeather.min.js" />
+    <Content Include="assets\js\lib\weather\weather-init.js" />
+    <Content Include="assets\js\scripts.js" />
+    <Content Include="assets\placeholder\1.png" />
+    <Content Include="assets\placeholder\2.png" />
+    <Content Include="assets\placeholder\3.jpg" />
+    <Content Include="assets\placeholder\3.png" />
+    <Content Include="assets\placeholder\4.jpg" />
+    <Content Include="assets\placeholder\avatar.png" />
+    <Content Include="assets\placeholder\avatar\1.jpg" />
+    <Content Include="assets\placeholder\avatar\2.jpg" />
+    <Content Include="assets\placeholder\avatar\3.jpg" />
+    <Content Include="assets\placeholder\avatar\usa-flag.png" />
+    <Content Include="assets\placeholder\chat-person-add.png" />
+    <Content Include="assets\placeholder\close.png" />
+    <Content Include="assets\placeholder\fjords.jpg" />
+    <Content Include="assets\placeholder\hand.jpg" />
+    <Content Include="assets\placeholder\lights.jpg" />
+    <Content Include="assets\placeholder\logo.png" />
+    <Content Include="assets\placeholder\maximize.png" />
+    <Content Include="assets\placeholder\minimize.png" />
+    <Content Include="assets\placeholder\nature.jpg" />
+    <Content Include="assets\placeholder\newyork.jpg" />
+    <Content Include="assets\placeholder\paris.jpg" />
+    <Content Include="assets\placeholder\paypal.png" />
+    <Content Include="assets\placeholder\picture.png" />
+    <Content Include="assets\placeholder\preview1.png" />
+    <Content Include="assets\placeholder\profile-bg.jpg" />
+    <Content Include="assets\placeholder\rangeSliderimg\sprite-skin-flat.png" />
+    <Content Include="assets\placeholder\rangeSliderimg\sprite-skin-modern.png" />
+    <Content Include="assets\placeholder\rangeSliderimg\sprite-skin-nice.png" />
+    <Content Include="assets\placeholder\rangeSliderimg\sprite-skin-simple.png" />
+    <Content Include="assets\placeholder\sanfran.jpg" />
+    <Content Include="assets\placeholder\scrollable\view-1-1200x800.jpg" />
+    <Content Include="assets\placeholder\smile.png" />
+    <Content Include="assets\placeholder\user-1.png" />
+    <Content Include="assets\placeholder\user-female.png" />
+    <Content Include="assets\placeholder\user-profile.jpg" />
+    <Content Include="assets\placeholder\user.jpg" />
+    <Content Include="assets\placeholder\video-cam.png" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="index.html" />
+    <Content Include="index1.html" />
+    <Content Include="page-login.html" />
+    <Content Include="page-reset-password.html" />
+    <Content Include="Scripts\ajaxCalls.js" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Areas\HelpPage\Views\Web.config" />
+    <Content Include="Areas\HelpPage\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\Index.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\TextSample.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\SimpleTypeModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\Samples.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\Parameters.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ModelDescriptionLink.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\KeyValuePairModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\InvalidSample.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ImageSample.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\HelpPageApiModel.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\EnumTypeModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\DictionaryModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ComplexTypeModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\CollectionModelDescription.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\DisplayTemplates\ApiGroup.cshtml" />
+    <Content Include="Areas\HelpPage\Views\Help\Api.cshtml" />
+    <Content Include="assets\css\admin\assets\fonts\themify.eot" />
+    <Content Include="assets\css\admin\assets\fonts\themify.ttf" />
+    <Content Include="assets\css\admin\assets\fonts\themify.woff" />
+    <Content Include="assets\fonts\fontawesome-webfont.eot" />
+    <Content Include="assets\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assets\fonts\fontawesome-webfont.woff" />
+    <Content Include="assets\fonts\fontawesome-webfont.woff2" />
+    <Content Include="assets\fonts\FontAwesome.otf" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="assets\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="assets\fonts\MontserratLight.eot" />
+    <Content Include="assets\fonts\MontserratLight.ttf" />
+    <Content Include="assets\fonts\MontserratLight.woff" />
+    <Content Include="assets\fonts\MontserratLight.woff2" />
+    <Content Include="assets\fonts\roboto\Roboto-Bold.woff" />
+    <Content Include="assets\fonts\roboto\Roboto-Bold.woff2" />
+    <Content Include="assets\fonts\roboto\Roboto-Light.woff" />
+    <Content Include="assets\fonts\roboto\Roboto-Light.woff2" />
+    <Content Include="assets\fonts\roboto\Roboto-Medium.woff" />
+    <Content Include="assets\fonts\roboto\Roboto-Medium.woff2" />
+    <Content Include="assets\fonts\roboto\Roboto-Regular.woff" />
+    <Content Include="assets\fonts\roboto\Roboto-Regular.woff2" />
+    <Content Include="assets\fonts\roboto\Roboto-Thin.woff" />
+    <Content Include="assets\fonts\roboto\Roboto-Thin.woff2" />
+    <Content Include="assets\fonts\themify.eot" />
+    <Content Include="assets\fonts\themify.ttf" />
+    <Content Include="assets\fonts\themify.woff" />
+    <Content Include="assets\fonts\weathericons-regular-webfont.eot" />
+    <Content Include="assets\fonts\weathericons-regular-webfont.ttf" />
+    <Content Include="assets\fonts\weathericons-regular-webfont.woff" />
+    <Content Include="assets\fonts\weathericons-regular-webfont.woff2" />
+    <Content Include="ApplicationInsights.config" />
+    <None Include="Properties\PublishProfiles\FolderProfile.pubxml" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\jquery-1.10.2.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <None Include="Scripts\jquery.validate-vsdoc.js" />
+    <Content Include="Scripts\jquery.validate.js" />
+    <Content Include="Scripts\jquery.validate.min.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.js" />
+    <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\modernizr-2.6.2.js" />
+    <Content Include="Scripts\respond.js" />
+    <Content Include="Scripts\respond.min.js" />
+    <Content Include="myEmployeesShifts.html" />
+    <Content Include="Shifts.html" />
+    <Content Include="ShiftsConstraintsApproval.html" />
+    <Content Include="Styles\myCss.css" />
+    <Content Include="ManageUsers.html" />
+    <Content Include="ManageEmployees.html" />
+    <Content Include="ShiftsConstraints.html" />
+    <Content Include="unused\app-widget-card.html" />
+    <Content Include="unused\blank.html" />
+    <Content Include="unused\chart-flot.html" />
+    <Content Include="unused\chart-knob.html" />
+    <Content Include="unused\chart-morris.html" />
+    <Content Include="unused\chart-peity.html" />
+    <Content Include="unused\chart-sparkline.html" />
+    <Content Include="unused\chartist.html" />
+    <Content Include="unused\chartjs.html" />
+    <Content Include="unused\font-themify.html" />
+    <Content Include="unused\form-basic.html" />
+    <Content Include="unused\form-validation.html" />
+    <Content Include="unused\invoice.html" />
+    <Content Include="unused\page-register.html" />
+    <Content Include="unused\Project_Readme.html" />
+    <Content Include="unused\table-basic.html" />
+    <Content Include="unused\table-export.html" />
+    <Content Include="unused\table-row-select.html" />
+    <Content Include="unused\uc-calendar.html" />
+    <Content Include="unused\uc-carousel.html" />
+    <Content Include="unused\uc-datamap.html" />
+    <Content Include="unused\uc-nestable.html" />
+    <Content Include="unused\uc-range-slider-advance.html" />
+    <Content Include="unused\uc-range-slider-basic.html" />
+    <Content Include="unused\uc-rating-bar-rating.html" />
+    <Content Include="unused\uc-rating-jRate.html" />
+    <Content Include="unused\uc-sweetalert.html" />
+    <Content Include="unused\uc-toastr.html" />
+    <Content Include="unused\uc-todo-list.html" />
+    <Content Include="unused\uc-weather.html" />
+    <Content Include="unused\ui-alerts.html" />
+    <Content Include="unused\ui-button.html" />
+    <Content Include="unused\ui-dropdown.html" />
+    <Content Include="unused\ui-images.html" />
+    <Content Include="unused\ui-list-group.html" />
+    <Content Include="unused\ui-media-object.html" />
+    <Content Include="unused\ui-navbar.html" />
+    <Content Include="unused\ui-panels.html" />
+    <Content Include="unused\ui-progressbar.html" />
+    <Content Include="unused\ui-recent-comments.html" />
+    <Content Include="unused\ui-shopping-card.html" />
+    <Content Include="unused\ui-tab.html" />
+    <Content Include="unused\ui-timeline.html" />
+    <Content Include="unused\ui-typography.html" />
+    <Content Include="unused\ui-user-card.html" />
+    <Content Include="unused\vector-map.html" />
+    <Content Include="UsersList.html" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Areas\HelpPage\Views\_ViewStart.cshtml" />
+    <Content Include="Content\Site.css" />
+    <Content Include="Scripts\_references.js" />
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Attachments\" />
+    <Folder Include="Views\Department\" />
+    <Folder Include="Views\Employee\" />
+    <Folder Include="Views\File\" />
+    <Folder Include="Views\KPI\" />
+    <Folder Include="Views\Manager\" />
+    <Folder Include="Views\Message\" />
+    <Folder Include="Views\Note\" />
+    <Folder Include="Views\User\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="packages.config" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <Target Name="MvcBuildViews" AfterTargets="AfterBuild" Condition="'$(MvcBuildViews)'=='true'">
+    <AspNetCompiler VirtualPath="temp" PhysicalPath="$(WebProjectOutputDir)" />
+  </Target>
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>55789</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:55789/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target> -->
+</Project>

@@ -1,0 +1,714 @@
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\ApplicationInsights.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\csc.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\vbc.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.Web.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Owin.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\WebGrease.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.Web.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\csc.exe
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Collections.Immutable.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Reflection.Metadata.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\vbc.exe
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe.config
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll.config
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Web.Infrastructure.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\WebGrease.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csproj.CoreCompileInputs.cache
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csproj.CopyComplete
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csprojAssemblyReference.cache
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\csc.exe
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Collections.Immutable.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\vbc.exe
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe.config
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll.config
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.pdb
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Web.Infrastructure.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Owin.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\WebGrease.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.pdb
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.xml
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csprojResolveAssemblyReference.cache
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.dll
+D:\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\csc.exe
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Collections.Immutable.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Reflection.Metadata.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\vbc.exe
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe.config
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll.config
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Web.Infrastructure.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\WebGrease.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csproj.CoreCompileInputs.cache
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csproj.CopyComplete
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.pdb
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\csc.exe
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Collections.Immutable.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Reflection.Metadata.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\vbc.exe
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe.config
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll.config
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.pdb
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Web.Infrastructure.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Owin.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\WebGrease.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.pdb
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csprojResolveAssemblyReference.cache
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csprojAssemblyReference.cache
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\csc.exe
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Collections.Immutable.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Reflection.Metadata.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\vbc.exe
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe.config
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll.config
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.pdb
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Web.Infrastructure.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Owin.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\WebGrease.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.pdb
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csprojAssemblyReference.cache
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csproj.CopyComplete
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 2\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.pdb
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\csc.exe
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Collections.Immutable.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Reflection.Metadata.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\vbc.exe
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe.config
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll.config
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.pdb
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Web.Infrastructure.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Owin.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\WebGrease.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.pdb
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.xml
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csproj.CoreCompileInputs.cache
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csproj.CopyComplete
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.dll
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\csc.exe
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Collections.Immutable.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Reflection.Metadata.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\vbc.exe
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe.config
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll.config
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Web.Infrastructure.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\WebGrease.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.pdb
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.xml
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csprojResolveAssemblyReference.cache
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.dll
+E:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.pdb
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\csc.exe
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Collections.Immutable.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\System.Reflection.Metadata.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\vbc.exe
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\roslyn\VBCSCompiler.exe.config
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll.config
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Dashboard_niar_hadera.pdb
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Web.Infrastructure.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Owin.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\WebGrease.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Newtonsoft.Json.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Net.Http.Formatting.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Helpers.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.WebHost.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Mvc.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Optimization.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Razor.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Deployment.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.WebPages.Razor.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Antlr3.Runtime.pdb
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\EntityFramework.SqlServer.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Core.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Facebook.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Cookies.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.OAuth.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Google.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.Twitter.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\bin\System.Web.Http.Owin.xml
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csprojResolveAssemblyReference.cache
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.dll
+F:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.pdb
+D:\לימודים\שנה ד\פרויקט גמר\פיתוח 3\Dashboard_niar_hadera\Dashboard_niar_hadera\obj\Debug\Dashboard_niar_hadera.csprojAssemblyReference.cache
